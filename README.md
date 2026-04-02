@@ -1,4 +1,4 @@
-# SmartStream IoT Hub 🚀
+# SmartStream IoT Hub 🚀....
 
 A universal, low-latency telemetry dashboard for remote industrial monitoring and medical imaging. 
 Designed to run cross-platform on both Windows (Prototyping) and Embedded Linux (Edge Deployment).
